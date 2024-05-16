@@ -1,5 +1,5 @@
 // use relative path (for Github Pages rendering)
-import * as THREE from "./node_modules/three";
+import * as THREE from "three";
 
 // create page
 const renderer = new THREE.WebGLRenderer();
