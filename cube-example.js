@@ -1,3 +1,5 @@
+// using https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
+
 // use relative path (for Github Pages rendering)
 import * as THREE from "three";
 
